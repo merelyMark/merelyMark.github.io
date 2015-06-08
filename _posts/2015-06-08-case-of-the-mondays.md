@@ -18,7 +18,9 @@ NeboRHS aren't persistent with memory, i.e. the memory comes from a memory manag
 So, my idea to just instantiate ZFP right in NeboLHS
 and NeboRHS didn't really work. To test my hypothesis that it was about
 not using the memory manager (MemoryWindow) I save everything first to ZFP and then 
-save it to "base_" memory as well in seqwalk_assign. Then, A more correct answer is the result.
+save it to "base_" memory as well in seqwalk_assign. Then, if needed, the 
+base_ is fed into the instantiation of nbzfp_ in the constructor of
+NeboLHS (and NeboRHS). And, a more correct answer is the result.
 
 So, while I wait for Peter to give me the updated version of ZFP (with more powah!)
 I'll continue to try to hack ZFP into Nebo. This time, I'm putting ZFP 
