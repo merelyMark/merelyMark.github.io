@@ -24,7 +24,7 @@ going on. So, how do I improve performance.
 1. Right now each step has a call to CUDA. Could combine them all
 into one call.
 
-2. ???
+2. Unroll the the first loop encode_ints and assign a thread.
 
 That's all I've got. I still haven't figure out how to logically parallelize
 the encode across threads because it's a dynamic programming problem.
