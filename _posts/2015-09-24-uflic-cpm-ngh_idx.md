@@ -25,4 +25,4 @@ But the laplacian is still doing a deep search.
 K6000
 with indirect ngh_idx for bresenham and laplacian: 6.0s
 
- 
+ Edit: Also, I wasn't actually doing the new bresenham, I forgot to virtualize that function. The speed-ups listed earlier were simply because of updates with neighborhood lookups.  Pretty good speed-up.
