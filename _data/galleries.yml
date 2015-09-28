@@ -1,0 +1,110 @@
+- id: edelta-8192-peel
+  description: 
+  imagefolder: /images/2015-09-28/
+  images:
+  - name: edelta-8192-0.png
+    thumb: edelta-8192-0.png
+    text: edelta 8192 no peel
+  - name: edelta-8192-1.png
+    thumb: edelta-8192-0.png
+    text: edelta 8192 first peel
+  - name: edelta-8192-2.png
+    thumb: edelta-8192-2.png
+    text: edelta 8192 2nd peel
+  - name: edelta-8192-3.png
+    thumb: edelta-8192-3.png
+    text: edelta 8192 3rd peel
+  - name: edelta-8192-4.png
+    thumb: edelta-8192-4.png
+    text: edelta 8192 4th peel
+  - name: edelta-8192-5.png
+    text: edelta 8192 5th peel
+    thumb: edelta-8192-5.png
+  - name: edelta-8192-6.png
+    thumb: edelta-8192-6.png
+    text: edelta 8192 6th peel
+  - name: edelta-8192-7.png
+    thumb: edelta-8192-7.png
+    text: edelta 8192 7th peel
+  - name: edelta-8192-8.png
+    thumb: edelta-8192-8.png
+    text: edelta 8192 8th peel
+  - name: edelta-8192-9.png
+    thumb: edelta-8192-9.png
+    text: edelta 8192 9th peel
+- id: edelta-8192-iterate
+  description: 
+  imagefolder: /images/2015-09-28/
+  images:
+  - name: image-00000.png
+    thumb: image-00000.png
+    text: edelta 8192 
+  - name: image-00001.png
+    thumb: image-00001.png
+    text: edelta 8192 
+  - name: image-00002.png
+    thumb: image-00002.png
+    text: edelta 8192 
+  - name: image-00003.png
+    thumb: image-00003.png
+    text: edelta 8192 
+  - name: image-00004.png
+    thumb: image-00004.png
+    text: edelta 8192 
+  - name: image-00005.png
+    thumb: image-00005.png
+    text: edelta 8192 
+  - name: image-00006.png
+    thumb: image-00006.png
+    text: edelta 8192 
+  - name: image-00007.png
+    thumb: image-00007.png
+    text: edelta 8192 
+  - name: image-00008.png
+    thumb: image-00008.png
+    text: edelta 8192 
+  - name: image-00009.png
+    thumb: image-00009.png
+    text: edelta 8192 
+  - name: image-00010.png
+    thumb: image-00010.png
+    text: edelta 8192 
+- id: edelta-4096-peel
+  description: 
+  imagefolder: /images/2015-09-27/
+  images:
+  - name: edelta-4096-0.png
+    thumb: edelta-4096-0.png
+    text: edelta 4096 no peel
+  - name: edelta-4096-1.png
+    thumb: edelta-4096-1.png
+    text: edelta 4096 depth peel layer 1
+  - name: edelta-4096-2.png
+    thumb: edelta-4096-2.png
+    text: edelta 4096 depth peel layer 2
+  - name: edelta-4096-3.png
+    thumb: edelta-4096-3.png
+    text: edelta 4096 depth peel layer 3
+  - name: edelta-4096-3.png
+    thumb: edelta-4096-3.png
+    text: edelta 4096 depth peel layer 3
+  - name: edelta-4096-4.png
+    thumb: edelta-4096-4.png
+    text: edelta 4096 depth peel layer 4
+  - name: edelta-4096-5.png
+    thumb: edelta-4096-5.png
+    text: edelta 4096 depth peel layer 5
+  - name: edelta-4096-6.png
+    thumb: edelta-4096-6.png
+    text: edelta 4096 depth peel layer 6
+  - name: edelta-4096-7.png
+    thumb: edelta-4096-7.png
+    text: edelta 4096 depth peel layer 7
+  - name: edelta-4096-8.png
+    thumb: edelta-4096-8.png
+    text: edelta 4096 depth peel layer 8
+  - name: edelta-4096-9.png
+    thumb: edelta-4096-9.png
+    text: edelta 4096 depth peel layer 9
+    
+    
