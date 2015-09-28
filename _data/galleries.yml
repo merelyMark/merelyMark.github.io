@@ -106,5 +106,41 @@
   - name: edelta-4096-9.png
     thumb: edelta-4096-9.png
     text: edelta 4096 depth peel layer 9
-    
+- id: edelta-2048-peel
+  description: 
+  imagefolder: /images/2015-09-27/
+  images:
+  - name: edelta-2048-0.png
+    thumb: edelta-2048-0.png
+    text: edelta 2048 no peel
+  - name: edelta-2048-1.png
+    thumb: edelta-2048-1.png
+    text: edelta 2048 depth peel layer 1
+  - name: edelta-2048-2.png
+    thumb: edelta-2048-2.png
+    text: edelta 2048 depth peel layer 2
+  - name: edelta-2048-3.png
+    thumb: edelta-2048-3.png
+    text: edelta 2048 depth peel layer 3
+  - name: edelta-2048-3.png
+    thumb: edelta-2048-3.png
+    text: edelta 2048 depth peel layer 3
+  - name: edelta-2048-4.png
+    thumb: edelta-2048-4.png
+    text: edelta 2048 depth peel layer 4
+  - name: edelta-2048-5.png
+    thumb: edelta-2048-5.png
+    text: edelta 2048 depth peel layer 5
+  - name: edelta-2048-6.png
+    thumb: edelta-2048-6.png
+    text: edelta 2048 depth peel layer 6
+  - name: edelta-2048-7.png
+    thumb: edelta-2048-7.png
+    text: edelta 2048 depth peel layer 7
+  - name: edelta-2048-8.png
+    thumb: edelta-2048-8.png
+    text: edelta 2048 depth peel layer 8
+  - name: edelta-2048-9.png
+    thumb: edelta-2048-9.png
+    text: edelta 2048 depth peel layer 9
     

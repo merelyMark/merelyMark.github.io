@@ -50,6 +50,7 @@
         {% else %}
           <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+          <p><time datetime="{{ post.date | date_to_xmlschema }}">{{post.date| date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
         {% endif %}
       </article>
     {% endfor %}
