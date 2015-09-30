@@ -6,7 +6,7 @@ modified:
 date:   2015-09-30 12:00
 tags: []
 ---
-On the desktop with projection Bresenham, 87.04s (Xeon 5140 with K6000). With CUDA, 8s.
+On the desktop with projection Bresenham, 87.04s (Xeon 5140 with K6000). With CUDA, <del>8</del> 6.96565s.
 
 ![edelta, 4096 projection, CUDA](/images/2015-09-30/edelta-4096-projection-bresenham-cuda.png)
 
