@@ -10,11 +10,11 @@ Previous, I would project a particle back to the surface to continue advecting t
 
 In other words, once a particle leaves the thin shell, there's no point in bringing it back to the surface. So, we stop. 
 
-Previously, projecting particles to the surface using the laptop CPU (i7-4720HQ) with the edelta dataset at 2048^3, running the prep stage "val" took <del>208.537s</del> 186.232s. It looks like:
+Previously, projecting particles to the surface using the laptop CPU (i7-4720HQ) with the edelta dataset at 4096^3, running the prep stage "val" took <del>208.537s</del> 186.232s. It looks like:
 
-![edelta, 2048, projection bresenham](/images/2015-09-30/edelta-2048-proj-bresenham.png)
+![edelta, 4096, projection bresenham](/images/2015-09-30/edelta-4096-proj-bresenham.png)
 
 
 Without projecting the particles to the surface it takes 108.848s and looks like:
 
-![edelta, no projection bresenham](/images/2015-09-30/edelta-2048-no-proj-bresenham.png)
+![edelta, 4096, no projection bresenham](/images/2015-09-30/edelta-4096-no-proj-bresenham.png)
